@@ -28,13 +28,12 @@ h1{
 .number{
     border-radius: 50%;
     background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0) );
-    position: relative;
     text-align: center;
     padding: 10px;
     padding-left: 30px;
     padding-right: 30px;
     width: 50%;
-    margin-left: 60px;
+    align-self: center;
 }
 .num1{
     font-size: 40px;
